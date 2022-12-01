@@ -1,0 +1,8 @@
+[package]
+name = "blacksheep"
+version = "0.1.0"
+authors = ["Benjamin Letchford <contact@benl.com.au>"]
+
+[dependencies]
+rand = "^0.3.14"
+rustc-serialize = "^0.3.19"
